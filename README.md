@@ -16,7 +16,7 @@ Loan amount Term- Duration of the loan repayment period.
 Education- Graduated and not graduated.
 # Problem Statement 
 Dream housing Finance company deals in all home loans. they have presence across all urban, semi urban and rural areas. customer first apply for home loan after that company validates the customer eligibility for loan.
-loan prediction is a very commmon real life problen tha every retail bank faces in their lending operation if the loan process is automated, it can save a lots of man hours and improve the speed of service to the customer.
+loan prediction is a very commmon real life problem tha every retail bank faces in their lending operation if the loan process is automated, it can save a lots of man hours and improve the speed of service to the customer.
 # Data collection
 THe data i have get the data in kaggle.com free there are 13 column and 614 rows. 
 # EDA(exporatory data analysis)
